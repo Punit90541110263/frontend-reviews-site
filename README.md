@@ -1,5 +1,18 @@
 # review-site
 
+# Review-Site
+
+## Group Participants
+- Carlos Aladim  
+- Punit  
+- Arshpreet  
+- Rohir Dehora  
+- Jatin  
+
+## Course Information
+- **Course Name**: EWebDevelopment 4  
+- **Professor**: Miss Javeria  
+
 ## Project setup
 ```
 npm install
